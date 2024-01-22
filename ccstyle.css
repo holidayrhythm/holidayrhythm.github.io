@@ -1,0 +1,45 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap');
+
+h1 {
+	position: relative;
+	font-family: Averia Gruesa Libre;
+	text-transform: uppercase;
+	font-style: normal;
+	font-size: 2.3rem;
+}  
+
+h2 {
+	font-family: Averia Gruesa Libre;
+	position: relative;
+	font-style: normal;
+font-size: 0.9rem; 
+}
+
+.ribbons b {
+  display: block;
+  line-height: 1;
+  margin: 0;
+	font-size: 1.3rem;
+}
+h3 {
+	font-style: normal;
+	font-family: Averia Gruesa Libre;
+}
+th {
+	font-family: Averia Gruesa Libre;
+	color: #fff;
+        font-weight: 400;
+}
+td {
+font-size: 14px; 
+}
+legend {
+	font-family: Averia Gruesa Libre;
+font-weight: 300;
+font-size: 1.1rem; 
+}
+fieldset {
+border: 0.5px solid #657D7E;
+}
+</style>
