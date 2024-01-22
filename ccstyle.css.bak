@@ -1,5 +1,4 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap');
 
 h1 {
 	position: relative;
@@ -42,4 +41,3 @@ font-size: 1.1rem;
 fieldset {
 border: 0.5px solid #657D7E;
 }
-</style>
